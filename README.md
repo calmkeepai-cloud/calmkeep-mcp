@@ -6,7 +6,7 @@ This repository provides an MCP server that routes prompts through the Calmkeep 
 
 Clone the repository:
 
-git clone https://github.com/YOURNAME/calmkeep-mcp
+git clone https://github.com/calmkeepai-cloud/calmkeep-mcp
 cd calmkeep-mcp
 
 Install dependencies:
