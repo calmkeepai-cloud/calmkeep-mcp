@@ -7,7 +7,7 @@ from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("Calmkeep")
 
-CALMKEEP_URL = os.environ.get(""https://diargallop--calmkeep-service-calmkeep-service.modal.run")
+CALMKEEP_URL = os.environ.get("https://diargallop--calmkeep-service-calmkeep-service.modal.run")
 CALMKEEP_API_KEY = os.environ.get("CALMKEEP_API_KEY")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 
